@@ -1,4 +1,4 @@
-# HackAtHomeII
+# Should you Hack at Home?
 
 A simple HTML/CSS site created to determine whether or not a hacker should Hack At Home based off of COVID-19 cases in their country.
 
